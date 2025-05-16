@@ -1,0 +1,12 @@
+../Core/Src/main.c:81:6:I2C_Scan	64	static
+../Core/Src/main.c:109:6:SetTime	88	static
+../Core/Src/main.c:124:6:GetTime	88	static
+../Core/Src/main.c:139:9:OLED_Check	8	static
+../Core/Src/main.c:147:6:DisplayTimeOnSH1106	88	static
+../Core/Src/main.c:178:5:main	248	static
+../Core/Src/main.c:300:6:SystemClock_Config	88	static
+../Core/Src/main.c:354:13:MX_I2C3_Init	8	static
+../Core/Src/main.c:402:13:MX_SPI4_Init	8	static
+../Core/Src/main.c:440:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:473:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:509:6:Error_Handler	4	static,ignoring_inline_asm
