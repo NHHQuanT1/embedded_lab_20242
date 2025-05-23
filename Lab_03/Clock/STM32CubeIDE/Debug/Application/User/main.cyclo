@@ -1,0 +1,17 @@
+C:/HeNhung/Clock/Core/Src/main.c:830:13:SPI5_Write	1
+C:/HeNhung/Clock/Core/Src/main.c:933:6:StartDefaultTask	3
+C:/HeNhung/Clock/Core/Src/main.c:241:6:SystemClock_Config	1
+C:/HeNhung/Clock/Core/Src/main.c:149:5:main	2
+C:/HeNhung/Clock/Core/Src/main.c:686:6:IOE_Init	1
+C:/HeNhung/Clock/Core/Src/main.c:694:6:IOE_ITConfig	1
+C:/HeNhung/Clock/Core/Src/main.c:705:6:IOE_Write	1
+C:/HeNhung/Clock/Core/Src/main.c:715:9:IOE_Read	1
+C:/HeNhung/Clock/Core/Src/main.c:727:10:IOE_ReadMultiple	1
+C:/HeNhung/Clock/Core/Src/main.c:736:6:IOE_Delay	1
+C:/HeNhung/Clock/Core/Src/main.c:852:6:LCD_IO_Init	1
+C:/HeNhung/Clock/Core/Src/main.c:861:6:LCD_IO_WriteData	1
+C:/HeNhung/Clock/Core/Src/main.c:876:6:LCD_IO_WriteReg	1
+C:/HeNhung/Clock/Core/Src/main.c:894:10:LCD_IO_ReadData	1
+C:/HeNhung/Clock/Core/Src/main.c:920:6:LCD_Delay	1
+C:/HeNhung/Clock/Core/Src/main.c:957:6:HAL_TIM_PeriodElapsedCallback	2
+C:/HeNhung/Clock/Core/Src/main.c:973:6:Error_Handler	1
